@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("修改成功,下班!");
+        System.out.println("还没有完成配置");
     }
 }
